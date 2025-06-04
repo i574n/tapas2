@@ -1,0 +1,19 @@
+cargo-features = ["edition2024"]
+
+[package]
+name = "tapas2_contract"
+version.workspace = true
+edition.workspace = true
+license-file.workspace = true
+repository.workspace = true
+
+[lib]
+crate-type = ["cdylib"]
+path = "tapas2_contract.rs"
+
+[dependencies]
+inline_colorization = { workspace = true }
+fable_library_rust = { workspace = true, features = ["atomic"] }
+borsh = "1.5"
+near-sdk = "5.4"
+near-token = ">=0.3,<1"

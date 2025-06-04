@@ -1,0 +1,7 @@
+packageDir: deps/polyglot/deps/spiral/lib
+packages:
+    |core-
+    spiral-
+modules:
+    contract/
+        tapas2_contract
