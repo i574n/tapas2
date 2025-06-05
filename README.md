@@ -1,6 +1,6 @@
 # tapas2
 
-<https://i574n.github.io/tapas2>
+<https://fc1943s.github.io/tapas2>
 
 [![깃허브 코드스페이스](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=996161589)
 
@@ -21,7 +21,7 @@
 Clone the repository:
 
 ```powershell
-git clone https://github.com/i574n/tapas2.git
+git clone https://github.com/fc1943s/tapas2.git
 ```
 
 Navigate to the directory, initialize dependencies and build the project:
@@ -44,7 +44,7 @@ Documentation
 <td>
 
 - Repository file tree (HTML)  
-<https://i574n.github.io/tapas2>
+<https://fc1943s.github.io/tapas2>
 
 </td>
 </tr>
@@ -58,7 +58,7 @@ Contract
 <td>
 
 - Smart contract notebook (Rust, NEAR Protocol)  
-<https://i574n.github.io/tapas2/contract/tapas2_contract.dib.html>
+<https://fc1943s.github.io/tapas2/contract/tapas2_contract.dib.html>
 
 </td>
 </tr>
@@ -71,4 +71,4 @@ Contributions are welcome! Please see the [CONTRIBUTING.md](https://github.com/i
 
 ## License
 
-This project is licensed under the AGPLv3 License. See the [LICENSE](https://github.com/i574n/tapas2/blob/main/LICENSE) file for details.
+This project is licensed under the AGPLv3 License. See the [LICENSE](https://github.com/fc1943s/tapas2/blob/main/LICENSE) file for details.
